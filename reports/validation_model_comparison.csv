@@ -1,0 +1,6 @@
+Model,MAE,MSE,R2
+Linear Regression,2.54,466.91,0.9957
+Gradient Boosting Regressor,3.45,471.62,0.9957
+Random Forest Regressor,2.95,511.91,0.9953
+Decision Tree Regressor,3.1,813.11,0.9926
+K-Nearest Neighbors Regressor,81.36,11195.8,0.8981
